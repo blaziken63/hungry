@@ -1,2 +1,2 @@
 # hungry
-First python repository
+Code for github demonstration
